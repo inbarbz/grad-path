@@ -1,0 +1,43 @@
+/* Order */
+@layer primevue;
+
+
+@import './base.css';
+
+#app {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  font-weight: normal;
+}
+
+a,
+.green {
+  text-decoration: none;
+  color: rgb(160, 234, 12);
+  transition: 0.4s;
+  padding: 3px;
+}
+
+@media (hover: hover) {
+  a:hover {
+    background-color: hsla(95, 93%, 53%, 0.853);
+  }
+}
+
+@media (min-width: 1024px) {
+  body {
+    display: flex;
+    place-items: center;
+  }
+
+  #app {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 0 2rem;
+  }
+}
+
+.p-tabmenu .p-tabmenu-nav .p-reset .ui-tabmenu .ui-tabmenu-nav .ui-tabmenuitem.ui-state-active :host ::ng-deep .ui-tabmenu .ui-tabmenu-nav .ui-tabmenuitem.ui-state-active {
+  background-color: red !important;
+}

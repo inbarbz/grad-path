@@ -1,0 +1,88 @@
+{
+  'user': 'zivbenzuk@yahoo.com',
+  'name': 'Ziv Ben Zuk',
+  'university': 'QML',
+  'degree': 'Unknown',
+  'gpa': 3.3,
+  'graduation_date': datetime.date(2024,
+  2,
+  12),
+  'intern_work_experience_years': 0.0,
+  'full_time_work_experience_years': 0.0,
+  'skills': [
+    'Product Manager',
+    'Python',
+    'SQL'
+  ],
+  'resume_parameters': {
+    'location': None,
+    'experience': [
+      {
+        'id': 54,
+        'is_internship': None,
+        'company_name': 'Manatal',
+        'job_title': 'Product Manager intern',
+        'start_date': datetime.date(2023,
+        4,
+        1),
+        'end_date': datetime.date(2023,
+        9,
+        1),
+        'responsibilities': "['Managed my own features throughout their lifecycle, from customer research and design to development, analysing production data, A/B testing and iteration', 'Collaborated with cross-functional teams, including design, marketing, and engineering', 'Participated in the scrum ceremonies', 'Contributed to core product metrics including conversion and retention']"
+      },
+      {
+        'id': 55,
+        'is_internship': None,
+        'company_name': 'IDF',
+        'job_title': 'Research Analyst',
+        'start_date': datetime.date(2018,
+        1,
+        1),
+        'end_date': datetime.date(2021,
+        1,
+        1),
+        'responsibilities': "['Independently led research in my domain', 'Performed data analysis and formulated conclusions and recommendations', 'Presented findings in written form and verbally for high-ranking officers', 'Worked under extreme pressure with high national responsibility']"
+      }
+    ],
+    'education': [
+      {
+        'id': 47,
+        'institution_name': 'Queen Mary University of London',
+        'institution_name_enum': "['Queen Mary University of London']",
+        'degree': 'BSc (Eng) Creative Computing',
+        'field_of_study': 'Creative Computing',
+        'graduation_date': datetime.date(2024,
+        1,
+        1)
+      },
+      {
+        'id': 48,
+        'institution_name': 'Kaplan Higher Education Institute, Singapore',
+        'institution_name_enum': "['Other']",
+        'degree': 'Diploma',
+        'field_of_study': 'Professional Business English',
+        'graduation_date': datetime.date(2021,
+        1,
+        1)
+      }
+    ],
+    'certifications': [],
+    'technical_skills': [
+      'Programming',
+      'Web Development',
+      'Data Analysis',
+      'SçQL'
+    ],
+    'social_skills': [
+      'Leadership',
+      'Collaboration'
+    ],
+    'soft_skills': [
+      'Critical Thinking',
+      'Verbal Skills',
+      'Written Skills'
+    ]
+  },
+  'original_resume_file_name': 'CV _Inbar_gradpath.pdf',
+  'original_image_file_name': ''
+}

@@ -1,0 +1,41 @@
+{
+  "jobs": [
+    {
+      "id": 12345,
+      "company": "Google",
+      "title": "Senior Frontend Developer",
+      "description": "The Reality Labs team at Meta enables people around the world to come together and connect through world-class Augmented and Virtual Reality hardware and software. With global departments dedicated to AR/VR research, computer vision, haptics, social interaction, and more, AR/VR is committed to driving the state-of-the-art forward through relentless innovation. Our teams explore, develop, and deliver new cutting-edge technologies that serve as the foundation of current and future AR/VR products. As an Embedded Software Engineer within Reality Labs, you will develop the software behind some of our flagchip AR and VR products, the prototyping platforms that make these products possible, or foster our scientific explorations. You will collaborate with highly diverse teams, threading together newly developed technologies to create intuitive experiences that enhance people’s experience of the world around them. Ultimately, we are improving AR/VR experiences through effective utilization of hardware resources i.e. optimization of code (app to system), balancing software across various hardware blocks, as well as designing features to enable higher utilization of hardware.\nSoftware Engineer - OS Frameworks (Technical Leaderchip) Responsibilities:\nDrive the organization’s goal towards building tools, system architecture, prototypes, frameworks and infrastructure for any of the following: operating systems, kernel development, low level debugging, system profiling, sensor/data management, AOSP, performance profiling, that will impact VR and AR product lines.\nEffectively communicate complex features and systems in detail while advocating for higher product quality and engineering efficiency.\nLead and set direction for how Meta Reality Labs develops its capabilities for teams to deliver best-in-class experiences for current and future products.\nCollaborate with cross-functional teams of partners, product managers and engineers in areas like computer vision, machine learning, graphics, hardware and firmware to understand requirements and enhance existing solutions.\nWrite clean readable code, debug complex problems that span systems.\nIdentify new opportunities for the larger organization & influence the appropriate people for staffing/prioritizing these new ideas\nUnderstand industry and Meta wide technology trends in computing technology to help assess & develop new technologies within the Reality Labs roadmap.\nPartner & collaborate with organizational leaders to help improve the level of performance of the team & organization.\n\nMinimum Qualifications:\n\nExperience leading consumer-based projects with industry-wide impact.\nExperience in driving large cross-functional/industry-wide engineering efforts\nExperience with cross-functional partnerchips, working across functions to drive solutions.\nExperience in mentoring/influencing senior engineers across organizations.\nExperience using C or C++ for day-to-day software development.\nExperience in developing Embedded engineering solutions within a resource constrained environment.\n\nPreferred Qualifications:\n\nMaster’s degree or PhD in Engineering, Computer Science, or a related technical field.\nExperience with AOSP, Android internals, Frameworks services, HAL or Native libraries, Android SDK, Android NDK, Android JNI, Android IPC mechanisms, Linux OS development.\nExperience in media (video, audio, streaming) and/or graphic stack is a plus.\nAbout Meta:\n\nMeta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the rules of physics.",
+      "location": "Remote",
+      "salary": "100000",
+      "currency": "USD",
+      "type": "Part time",
+      "status": "lalala",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=3768889520&geoId=102257491&keywords=software%20engineer&location=London%2C%20England%2C%20United%20Kingdom&origin=JOBS_HOME_LOCATION_AUTOCOMPLETE&refresh=true&"
+    },
+    {
+      "id": 222234,
+      "company": "Facebook",
+      "title": "Do Nothing, just get money",
+      "description": "Hybrid - London - Lead Engineer £100k-£120k + Equity\nA new mobile network is forming, do you want to be a part of something at greenfield stage that's going to disrupt the rest of the industry and work alongside a founder who sold their previous start-up for hundreds of Millions of pounds?\nAnd still get equity...\nIf so then this might be for you...\n\nAs the Lead Engineer\nHybrid working in the Covent garden office\nHave a huge impact on a product from day 1\nWork closely with a highly successful founder and leaderchip team on their next venture\nBe responsible for the technical delivery of the product\nSolve real-world problems using innovative and modern technologies\n\nYou should have:\nAt least 2 years of experience in a leaderchip position\nStrong user focus\nExperience working in a fast-paced start-up environment and building to-scale products\nHave experience working with ReactNative & Typescript (+ Next.js, Docker & Postgres is a nice to have)\nA business/entrepreneur mindset\n\nIf this sounds of interest please send me an email at: ellis.gilbert@fewandfar.io\nor just apply on Linkedin 🤷\n\n",
+      "location": "In Office",
+      "salary": "0.1",
+      "currency": "USD",
+      "type": "Remote",
+      "status": "Hybrid",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=3796905179&geoId=102257491&keywords=software%20engineer&location=London%2C%20England%2C%20United%20Kingdom&origin=JOBS_HOME_LOCATION_AUTOCOMPLETE&refresh=true"
+    },
+    {
+      "id": 1524356,
+      "company": "Facebook",
+      "title": "Do Nothing, just get money",
+      "description": "AAAAA Hybrid - London - Lead Engineer £100k-£120k + Equity\nA new mobile network is forming, do you want to be a part of something at greenfield stage that's going to disrupt the rest of the industry and work alongside a founder who sold their previous start-up for hundreds of Millions of pounds?\nAnd still get equity...\nIf so then this might be for you...\n\nAs the Lead Engineer\nHybrid working in the Covent garden office\nHave a huge impact on a product from day 1\nWork closely with a highly successful founder and leaderchip team on their next venture\nBe responsible for the technical delivery of the product\nSolve real-world problems using innovative and modern technologies\n\nYou should have:\nAt least 2 years of experience in a leaderchip position\nStrong user focus\nExperience working in a fast-paced start-up environment and building to-scale products\nHave experience working with ReactNative & Typescript (+ Next.js, Docker & Postgres is a nice to have)\nA business/entrepreneur mindset\n\nIf this sounds of interest please send me an email at: ellis.gilbert@fewandfar.io\nor just apply on Linkedin 🤷\n\n",
+      "location": "In Office",
+      "salary": "123",
+      "currency": "USD",
+      "type": "Remote",
+
+      "status": "In Office",
+      "url": ""
+    }
+  ]
+}
